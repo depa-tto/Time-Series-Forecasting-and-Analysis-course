@@ -1,1 +1,1 @@
-# Time-Series-Forecasting-and-Analysis-course
+Time Series Forecasting and Analysis course
